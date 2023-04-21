@@ -60,5 +60,11 @@ def gui():
     elif event=='Submit':
         main.execute_main(params=values)
 
+
+def gui2():
+    pass
+
+
+
 if __name__ == '__main__':
     gui()
